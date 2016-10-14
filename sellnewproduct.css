@@ -1,0 +1,258 @@
+.addnewbrandlink
+{
+	float:right;
+}
+#sellproduct-dropdown-menu{
+	
+	width: 100%;
+}
+#sellproduct-dropdown-menuwidth{
+	padding-top:10px;
+	padding-left:0px;
+	padding-right:0px;
+}
+#sellproduct-searchwidth{
+		padding-top:10px;
+	padding-left:0px;
+	padding-right:0px;
+}
+.sellproduct-searchbox-width{
+	
+	width: 92%;
+	height: 33px;
+}
+.topmaargforsellnewproduct
+{
+	margin-top:0px;
+}
+.marginall0px{
+	margin:0;
+}
+.ProductOption{
+	margin-top:0px;
+}
+.autorenewaldeal{
+	padding: 5px;
+	font-weight: bold;
+	}
+.padding27px{
+	padding:32px;
+}
+.head_menu{
+	
+	font-size: 25px;
+}
+.menutextheader{
+	font-size: 12px;
+}
+#menubutt{
+	border-width: 0px;
+background-color: transparent;
+color:#1b5e9f;
+}
+#nolimitcheckbox{
+	float:left;
+}	
+.formglyphicontrash{
+	
+	margin-top: 25px;
+	margin-left: 0;
+	font-size: 16px;
+}
+#myDIVroteted {
+    /*! background-color:transparent; */
+    transform:rotate(90deg);
+    /*! display: block; */
+    margin-top: 54px;
+    margin-right: 2px;
+}
+.HelloAiMarket{
+	
+	font-weight: bold;
+}
+.ChooseLocation{
+	font-weight:bold;
+}
+.listheadershipping{
+	
+	font-size: 16px;
+	font-weight: bold;
+	margin-bottom: 2px;
+}
+.liststyletypenone1{
+	margin: 10px;
+}
+.divd1{
+height: 2px;
+background-color: rgba(128, 128, 128, 0.56);
+}
+.uploadproducthead{
+	
+	color: white;
+	text-align: center;
+	font-weight: bold;
+}
+.rowcolorblue{
+	
+	background-color:#1b5e9f;
+}
+
+.moveright{
+	
+	float: right;
+}
+.paddingforlogo10{
+	padding:13px;
+	color: white;
+	font-size: 23px;
+}
+.paddingfor10{
+padding:10px;	
+}
+.paddingfor15px{
+	padding: 15px;
+}
+.glyphiconcamerastyle{
+	font-size:25px;
+}
+.newbutt{
+	
+	width: 100px;
+	border-radius: 100px;
+}
+#searchwidth{
+	width:92%;
+	
+}
+.borderbottomrow{
+	border-bottom-style: solid;
+	border-bottom-color: rgba(128, 128, 128, 0.32);
+	border-bottom-width: 3px;	
+}
+.borderleftrow{
+	border-left-style: solid;
+	border-left-color: rgba(128, 128, 128, 0.32);
+	border-left-width: 3px;	
+}
+.borderrightrow{
+	border-right-style: solid;
+	border-right-color: rgba(128, 128, 128, 0.32);
+	border-right-width: 3px;	
+	
+}
+.previewandsellbutt{
+	border-top-style: solid;
+	border-top-color: rgba(128, 128, 128, 0.32);
+	border-top-width: 3px;
+}
+
+.bordertoprow{
+	border-top-style: solid;
+	border-top-color: rgba(128, 128, 128, 0.32);
+	border-top-width: 3px;
+}
+.rowbottomborderblue{
+	
+	border-bottom: solid;
+	border-bottom-color: #1b5e9f;
+	padding: 10px;
+}
+.paddingallside0{
+	padding:0;
+}
+#search_btn{
+	
+	position: absolute;
+	margin: 0;
+}
+.searchtextboxheight{
+	height:35px;
+}
+.searchtextboxwidth{
+width:92%;	
+}
+.input-group{
+	
+}
+#badgeforcart{
+	background: none;
+    font-size: 17px;
+    padding: 0;
+    position: absolute;
+    top: 10px;
+    right: 23px;
+    width: 25px;
+    border-radius: 0;
+    color: #fbb315;
+}
+.header_shoping_cartlabel{
+    font-size: 16px;
+    position: absolute;
+    top: 47px;
+    right: 19px;
+    color: #313131;
+    font-weight: bold;
+    cursor: pointer;
+}
+.search_form{
+	
+	margin-top: 10px;
+}
+.footericon{
+	/*! display: block; */
+    /*! float: left; */
+    /*! width: 20%; */
+    margin: 0;
+    /*! padding: 5px 0; */
+    /*! text-align: center; */
+    color: #FFF;
+    font-size: 14px;
+    font-family: 'Lato', sans-serif;
+    margin-left: 0 !important;
+    cursor: pointer;
+}
+.bgcolorblack{
+	background-color:black;
+}
+/*--------Media queries---------*/
+/* Large desktop */
+@media (min-width:1200px) { 
+
+
+... }
+ 
+/* Portrait tablet to landscape and desktop */
+@media (min-width:768px)and(max-width:979px) { 
+
+}
+ 
+/* Landscape phone to portrait tablet */
+@media (max-width:767px) {
+	
+	
+	
+	
+}
+ 
+
+ /* Landscape phones and down */
+@media (max-width:480px)
+ {
+.rowbottomborderblue {
+    border-bottom: solid;
+    border-bottom-color: #1b5e9f;
+    padding: 10px;
+ padding-bottom: 25px;}
+ .borderrightrow {
+    border-right-style: none;
+    border-bottom: solid rgba(128, 128, 128, 0.32);
+ }
+ #myDIVroteted {
+    background-color: transparent;
+    transform: rotate(90deg);
+    display: block;
+    margin-top: 4px;
+    margin-right: 75px;
+    height: 120px;
+ }
+ }
